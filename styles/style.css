@@ -11,6 +11,10 @@ body {
   color: white;
 }
 
+#sends{
+   visibility: hidden;
+}
+
 .wrapperuz {
   padding: 20px 28px;
   margin: 0;
